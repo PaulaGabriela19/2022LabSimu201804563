@@ -4,7 +4,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 ### **Problema 1**
 
-![Problema1](img/img1.1.)
+![Problema1](img/img1.1.jpeg)
 
 **Diagrama de flujo**
 ![Problema1](img/img1.jpeg)
@@ -83,7 +83,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 **Respuestas del problema**
 - La raíz de la función f(x) = asin(x) es 0
 - Gráfica de la función f(x) = asin(x)
-- ![Problema1](img/Curva2.jpeg)
+- ![Problema1](img/Curva3.jpeg)
 - Haciendo la comparación entre la gráfica de f(x) y el valor encontrado por el programa, se puede notar que ambos resultados son bastante parecidos
 
 
