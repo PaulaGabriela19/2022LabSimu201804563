@@ -4,11 +4,11 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
 ### **Problema 1**
 
-![Problema1](Img/img1.1.)
+![Problema1](img/img1.1.)
 
 **Diagrama de flujo**
-![Problema1](Img/img1.jpeg)
-![Problema1](Img/img2.jpeg)
+![Problema1](img/img1.jpeg)
+![Problema1](img/img2.jpeg)
 
 **Variables de entrada y salida:**
 - x   = Semanas de entreno
@@ -37,9 +37,9 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 **Respuestas del problema**
 - Recta que que mejor aproxima el crecimiento en el peso: y = 5.785714x + 14.428572
 - Gráfica inicial de los datos 
-- ![Problema1](Img/Curva1.jpeg)
+- ![Problema1](img/Curva1.jpeg)
 - Gráfica de y = 5.785714x + 14.428572 
-- ![Problema1](Img/Curva2.jpeg)
+- ![Problema1](img/Curva2.jpeg)
 - El peso que el atleta lograría levantar despues de 5 meses (semana 20) utilizando el método de mínimos cuadrados es de 130.142852kg. Con esta información, concluimos que no logra pasar la prueba física después de los 10 meses de su lesión.
 
 **Compilación y ejecución:**
@@ -50,10 +50,10 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 
  ### **Problema 2**
 
-![Problema1](Img/img1.2.jpeg)
+![Problema1](img/img1.2.jpeg)
 
 **Diagrama de flujo**
-![Problema1](Img/img3.jpeg)
+![Problema1](img/img3.jpeg)
 **Variables de entrada y salida:**
 - x0   = Estimación inicial de la raíz (variable de entrada)
 - e    = Error tolerable en la obtención de la raíz (variable de entrada)
@@ -83,7 +83,7 @@ Dentro de esta carpeta se documentará y mostrará el código de los problemas d
 **Respuestas del problema**
 - La raíz de la función f(x) = asin(x) es 0
 - Gráfica de la función f(x) = asin(x)
-- ![Problema1](Img/Curva2.jpeg)
+- ![Problema1](img/Curva2.jpeg)
 - Haciendo la comparación entre la gráfica de f(x) y el valor encontrado por el programa, se puede notar que ambos resultados son bastante parecidos
 
 
